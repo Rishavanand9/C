@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504313463 source:e:\projects\c\counter game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
